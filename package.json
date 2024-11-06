@@ -12,11 +12,14 @@
   "author": "Gabriel Galatti",
   "license": "ISC",
   "dependencies": {
+    "@trigger.dev/sdk": "^3.1.2",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "openai": "^4.71.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@trigger.dev/build": "^3.1.2",
     "@types/express": "^5.0.0",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.8.2",
